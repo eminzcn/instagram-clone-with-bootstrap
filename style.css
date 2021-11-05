@@ -1,0 +1,55 @@
+body {
+    font-size: 14px;
+    background-color: rgb(245, 245, 245);
+}
+
+i {
+    padding: 0px 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: gray;
+    font-size: 11px;
+}
+
+.story-img {
+    border: 2px solid #c8347e;
+    border-radius: 40px;
+    margin: 5px;
+    padding: 2px;
+}
+
+.avatar-img {
+    border-radius: 20px;
+}
+
+.card {
+    padding: 0;
+}
+
+.card-img-top {
+    border-radius: 0;
+}
+
+p {
+    padding: 2px;
+    line-height: 1;
+    margin: 5px 0px;
+}
+
+span {
+    font-size: 12px;
+}
+
+.sticky-right {
+    height: 10rem;
+    position: sticky;
+    top: 100px;
+    padding-left: 20px;
+}
+
+.follow {
+    color: #0095f6;
+    font-weight: 600;
+}
